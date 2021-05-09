@@ -1,0 +1,35 @@
+#post-contents:disabled,
+#post-title-edit:disabled {
+  background: white;
+  border: none;
+}
+
+.custom-container {
+  padding-top: 80px;
+  padding-right: 10px;
+  padding-left: 10px;
+}
+
+.btn {
+  border-radius: 0px;
+}
+
+#post-contents {
+  margin-top: 20px;
+}
+
+.comment-section,
+.posted-comments {
+  padding: 10px;
+  width: 70%;
+}
+
+h4 {
+  text-align: center;
+}
+
+.posted-comment-card {
+  margin-top: 5px;
+  background: white;
+  padding: 5px;
+}
